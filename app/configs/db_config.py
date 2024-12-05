@@ -1,0 +1,1 @@
+DB_URL = "postgresql+asyncpg://postgres:12345@localhost/songdb"
